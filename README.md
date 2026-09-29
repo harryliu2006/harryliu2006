@@ -2,8 +2,8 @@
 
 I study Electrical and Computer Engineering (AI Minor) at the **University of Toronto**. I like work that spans the whole stack, from AI agents down to bare-metal C and Verilog.
 
-- 🔭 **Now:** ML Research Assistant at **Apollo Lab, Yale**. I'm building a single-view 3D mesh generation model so robots can get a 3D model of an unseen object from one camera image
-- 💼 **Previously:** Software Engineer Intern at **Softchoice**. I built an agentic AI testing workflow that runs in CI/CD on every change and cut release cycle time by 15%
+- 🔭 **Now:** ML Research Assistant at **Apollo Lab, Yale**, where I'm working on single-view 3D mesh generation
+- 💼 **Previously:** Software Engineer Intern at **Softchoice**, where I built agentic AI testing workflows
 - ♟️ Outside of engineering: 3rd in Ontario and 11th in Canada at the Youth Chess Championships
 
 ### 🛠️ Tech Stack
